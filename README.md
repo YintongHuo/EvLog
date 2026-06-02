@@ -1,3 +1,3 @@
 ## EvLog: Identifying Anomalous Logs over Software Evolution
 
-Dataset please refer to: https://mycuhk-my.sharepoint.com/:u:/g/personal/1155160328_link_cuhk_edu_hk/ERtVlH4x16ZMlQcxIs7XYp4BiUw0zOcGFeVtpR3Wuu8nvA?e=CAOrka
+[Updated Jun 26] Dataset please refer to: https://smu-my.sharepoint.com/:u:/g/personal/ythuo_smu_edu_sg/IQBsHUy0DktJQYzm5cozeQvnAcwWZjljocP5HJ5mTer4SfI
